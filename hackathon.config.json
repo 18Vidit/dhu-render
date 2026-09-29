@@ -1,0 +1,18 @@
+{
+  "projectName": "dhu-render",
+  "teamName": "dhu-render",
+  "tagline": "One-line tagline",
+  "teamMembers": [
+    "Vidit",
+    "Shaurya",
+    "Apoorva",
+    "Pranav"
+  ],
+  "problemStatement": "Voice and Photo Based Case Assigning and Routing System",
+  "frontend": "Next.js 14",
+  "backend": "Express",
+  "database": "PostgreSQL",
+  "authentication": "JWT",
+  "addons": [],
+  "installDeps": true
+}
